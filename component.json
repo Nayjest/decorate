@@ -1,0 +1,9 @@
+{
+  "name": "decorate",
+  "version": "1.0.0",
+  "main": "./decorate.js",
+  "author": "Vitalii [Nayjest] Stepanenko <gmail@vitaliy.in>",
+  "dependencies": {
+    
+  }
+}
