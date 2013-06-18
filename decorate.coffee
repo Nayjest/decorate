@@ -52,7 +52,7 @@ define [], ()->
     obj
 
   ###*
-   * Decorate function, decorator runs after function call.
+   * Decorates function, decorator runs after function call.
    * Usage:
    *  decorateAfter(<Object targetObj>,<String methodName>,<Function decorator>)
    *  decorateAfter(<Function targetFunc>, <function decorator>)
