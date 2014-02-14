@@ -1,4 +1,4 @@
-decorate
+Decorate
 ========
 
 Decorator on javascript / coffeescript
